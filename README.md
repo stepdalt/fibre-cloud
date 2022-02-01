@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
-It is a proof of concept application to put a front-end on data being collected via the fibre optic lines that run parallel to the Transit Train lines. This data can be used to provide the most accurate tracking of train movement throughout the city and thus provides better information to passengers about train schedules.
+A proof of concept application to put a front-end on data being collected via the fibre optic lines that run parallel to the Transit Train lines. This data can be used to provide the most accurate tracking of train movement throughout the city and thus provides better information to passengers about train schedules.
 
 This has been purpose-built to run on an Azure Cloud application server, but can be deployed cross-platform.
 
