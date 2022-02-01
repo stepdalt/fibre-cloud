@@ -1,0 +1,7 @@
+<div *ngIf="activeTrains">Number of active trains: {{activeTrains.length}}</div>
+<div *ngIf="options">
+  <div style="height: 600px;"
+     leaflet
+     [leafletOptions]="options">
+</div>
+</div>
